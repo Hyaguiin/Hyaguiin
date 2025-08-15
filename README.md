@@ -38,11 +38,13 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Hyaguiin&show_icons=true&theme=github_dark" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hyaguiin&theme=github-dark" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyaguiin&layout=compact&theme=github_dark" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=Hyaguiin&show_icons=true&theme=github_dark" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hyaguiin&theme=github-dark" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyaguiin&layout=compact&theme=github_dark" />
 </p>
+
 
 
 
