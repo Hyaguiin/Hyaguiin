@@ -3,7 +3,7 @@
 - 🔭 Currently working as a **Full-stack Developer** at **Ms Soluções** and **Fasteng JBR**
 - 🌱 Learning **Kubernetes**, improving my skills in **DevOps** and **cloud-native development**
 - 🚀 Focused on delivering scalable and performant applications using modern stacks
-- 💻 Working daily with **JavaScript**, **TypeScript**, **React**, **Angular**, **Node.js**, **Java**, and **AWS**
+- 💻 Working daily with **JavaScript**, **TypeScript**, **React**, **Angular**, **Next.js**, **Node.js**, **Java**, and **AWS**
 - ⚙️ Experienced with deployment, CI/CD and serverless using **Vercel**, **AWS**, and **Docker**
 - ⚡ Fun fact: I'm also into **Calisthenics** — code by day, train by night 💪
 
@@ -18,6 +18,7 @@
 
 **Front-end:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=fff)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=fff)  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff)
 
@@ -48,4 +49,5 @@
 ### 📫 Connect with Me
 
 - 📧 hyago.gabriel2017@gmail.com
+
 
