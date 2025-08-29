@@ -27,9 +27,7 @@
 </p>
 
 **Back-end**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff" /> </p>
 
 **Databases**  
 <p align="left">
